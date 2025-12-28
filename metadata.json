@@ -1,0 +1,7 @@
+{
+  "name": "AI Language Translator",
+  "description": "An intelligent translator app powered by Google Gemini. Translate text by typing or by extracting it from images (OCR). Features an optional 'Thinking Mode' for complex translations. Designed to feel like a native Android app or browser extension.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
